@@ -1,0 +1,73 @@
+[
+  {
+    "type": "player_spawn",
+    "x": 550,
+    "y": 250,
+    "angle": 180
+  },
+  {
+    "type": "parking_spot",
+    "x": 120,
+    "y": 280
+  },
+  {
+    "type": "parkingcar",
+    "x": 120,
+    "y": 120,
+    "texture": "parked_car_red"
+  },
+  {
+    "type": "parkingcar",
+    "x": 120,
+    "y": 370,
+    "texture": "parked_car_blue"
+  },
+  {
+    "type": "border",
+    "x": 0,
+    "y": 0,
+    "width": 750,
+    "height": 1,
+    "comment": "top_line"
+  },
+  {
+    "type": "border",
+    "x": 0,
+    "y": 607,
+    "width": 750,
+    "height": 1,
+    "comment": "bottom_line"
+  },
+  {
+    "type": "border",
+    "x": 60,
+    "y": 0,
+    "width": 1,
+    "height": 800,
+    "comment": "left_line"
+  },
+  {
+    "type": "border",
+    "x": 702,
+    "y": 0,
+    "width": 95,
+    "height": 162,
+    "comment": "R_line_up - grass boundary upper right"
+  },
+  {
+    "type": "border",
+    "x": 731,
+    "y": 350,
+    "width": 60,
+    "height": 250,
+    "comment": "R_line_down - grass boundary lower"
+  },
+  {
+    "type": "border",
+    "x": 799,
+    "y": 0,
+    "width": 1,
+    "height": 608,
+    "comment": "right_line"
+  }
+]

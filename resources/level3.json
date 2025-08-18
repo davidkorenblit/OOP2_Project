@@ -1,0 +1,149 @@
+[
+  {
+    "type": "player_spawn",
+    "x": 150,
+    "y": 100,
+    "angle": 90
+  },
+  {
+    "type": "movingcar",
+    "x": 55,
+    "y": 700,
+    "angle": 270,
+    "direction_x": 0.0,
+    "direction_y": -1.0,
+    "speed": 100,
+    "texture": "moving_car"
+  },
+  {
+    "type": "movingcar",
+    "x": 350,
+    "y": 300,
+    "direction_x": 0.0,
+    "direction_y": 0.0,
+    "angle": 0,
+    "speed": 50,
+    "texture": "moving_car_2"
+  },
+  {
+    "type": "parking_spot",
+    "x": 617,
+    "y": 130,
+    "angle": 90,
+    "direction_x": 0.0,
+    "direction_y": 1.0
+  },
+  {
+    "type": "parkingcar",
+    "x": 500,
+    "y": 130,
+    "angle": 90,
+    "direction_x": 0.0,
+    "direction_y": 1.0,
+    "texture": "parked_car_blue"
+  },
+  {
+    "type": "parkingcar",
+    "x": 740,
+    "y": 130,
+    "angle": 90,
+    "direction_x": 0.0,
+    "direction_y": 1.0,
+    "texture": "parked_car_red"
+  },
+  {
+    "type": "parkingcar",
+    "x": 410,
+    "y": 435,
+    "angle": 270,
+    "direction_x": 0.0,
+    "direction_y": -1.0,
+    "texture": "parked_car_red"
+  },
+  {
+    "type": "parkingcar",
+    "x": 699,
+    "y": 435,
+    "angle": 270,
+    "direction_x": 0.0,
+    "direction_y": -1.0,
+    "texture": "parked_car_blue"
+  },
+
+  {
+    "type": "parkingcar",
+    "x": 290,
+    "y": 435,
+    "angle": 270,
+    "direction_x": 0.0,
+    "direction_y": -1.0,
+    "texture": "parked_car_green"
+  },
+
+  {
+    "type": "parkingcar",
+    "x": 520,
+    "y": 435,
+    "angle": 270,
+    "direction_x": 0.0,
+    "direction_y": -1.0,
+    "texture": "parked_car_red"
+  },
+
+  {
+    "type": "border",
+    "x": 200,
+    "y": 0,
+    "width": 95,
+    "height": 260,
+    "comment": "obstacle_barrier_1"
+  },
+  {
+    "type": "border",
+    "x": 340,
+    "y": 0,
+    "width": 395,
+    "height": 30,
+    "comment": "obstacle_barrier_2"
+  },
+  {
+    "type": "border",
+    "x": 210,
+    "y": 500,
+    "width": 520,
+    "height": 58,
+    "comment": "obstacle_barrier_3"
+  },
+  {
+    "type": "border",
+    "x": 0,
+    "y": 0,
+    "width": 900,
+    "height": 1,
+    "comment": "top_line"
+  },
+  {
+    "type": "border",
+    "x": 0,
+    "y": 607,
+    "width": 800,
+    "height": 1,
+    "comment": "bottom_line"
+  },
+  {
+    "type": "border",
+    "x": 0,
+    "y": 0,
+    "width": 1,
+    "height": 708,
+    "comment": "left_line"
+  },
+  {
+    "type": "border",
+    "x": 899,
+    "y": 0,
+    "width": 1,
+    "height": 708,
+    "comment": "right_line"
+  }
+]

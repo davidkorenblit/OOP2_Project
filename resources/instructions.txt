@@ -1,0 +1,17 @@
+GAME INSTRUCTIONS
+
+OBJECTIVE:
+Park your car in the designated parking spot
+without hitting obstacles or other cars.
+
+CONTROLS:
+W - Move Forward
+A - Turn Left  
+S - Move Backward
+D - Turn Right
+H - Horn Sound
+P - Pause Game
+R - Restart Level
+ESC - Menu
+
+Press Any button to return to menu
