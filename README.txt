@@ -1,8 +1,6 @@
 # Parking 2D Game - End of Semester B Project
 
-## Student Details
-David korenblit 213871734  
-David Bible 207402850
+
 
 ## General Project Description
 We were required to create a parking game, including textures, sounds, and multiple levels. The game allows the player to control a vehicle and park it in designated spots while avoiding collisions with static and dynamic obstacles. The game features realistic physics, time-based scoring, and progressive difficulty across multiple levels.
